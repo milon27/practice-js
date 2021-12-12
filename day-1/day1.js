@@ -6,10 +6,9 @@ const students = [
     { name: 'Katie', grade: 90 }
 ];
 
-fdfkdk
 // git add .
 //git commit -m 'any msge'
-//git push
+//git pushs
 
 // let's say you have this student array.
 
